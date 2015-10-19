@@ -1,0 +1,4 @@
+node_modules
+/dist
+.idea
+alfred_electron.iml
